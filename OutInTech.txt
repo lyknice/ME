@@ -1,0 +1,35 @@
+# First Project
+
+> No one can make you feel inferior without your consent.
+> 
+> -*Eleanor Roosevelt
+
+Hi Jonathan This is my first unofficial project, so you can get to know me a little better.
+##
+
+
+
+***
+### About Me
+
+![alt text](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAmrAAAAJDkzNWQ3NDY3LTY5ZTktNGQ2Ny1iNzc5LTUwNzc2NjBmODllZQ.jpg )
+
+I was born in Manhattan, New York and I grew up in South Jamaica Queens, infamous Southside. My mom and dad was born in Brooklyn but my maternal grandparents are from Jamaica and my paternal grandparents are from the south.  I also lived in Middletown NY, for some time in my life. Orange County, It was upstate, NY were I got in the most trouble in my life. I am very family oriented so I have little friends because I rather be with family. Although I know many people, I can only say a few are my true friends.
+
+School was always easy for me and I always excelled. My family now understands this was the reason for my misbehavior in school because most of the time I was bored. I grew up with my cousins and they were all boys. So since I was a little girl I dressed as my family would say “like them”. When I came out my family said already knew because of my choice of clothing and actions.  When I was young I did a summer internship for Audre Lorde. It was during Bush’s reelection. That was my first look into politics and activism. Since then I have always did random things to stir my interests and stay involved.
+
+Being upstate I wound up hanging with the wrong people and I got into some big trouble. I thought it was the end of my life as it placed me in yet another category to be discriminated against. So on top of being black and a lesbian, I am now a felon. The fact that I always knew I wanted to work in government hurt. I could no longer pursue that dream as a felon. One day I decided to go back to school and get back involved. 
+
+Im passionate about equality for all in all aspects. I know we can live in a world where when we go to doctor it won’t matter what health insurance you have because the main focus will be your health.Or when someone fills out a financial aid application it won’t matter what your background is. If you're not financially able to pay for your education they Government will. Or even better world where education is free and education resources are readily available. 
+
+I have basic knowledge in python, HTML/CSS, java, SQL. So i have always told myself I don’t want to code. However I find myself doing a lot of coding projects. Which I am not opposed to because I love learning in general.  Some skills I am interested in learning is some server skills, photoshop , pro tools, github, or video editing. I know these are random but these are things I hear a lot of people talk about that I don’t know how to do. But i am never opposed to learning anything I am very open minded.
+
+A lot my projects are political. I would like to start an organization that checks the government. That makes sure laws they are implementing are constitutional. And they need to fund it. We need a system that is going to check politicians and their political motives. I also want to create something that makes it so prisons are not for profit and we help people coming out of jail. It should be no reason why someone doing life can’t get an education. Even if they got life they can still contribute to society in many ways if their educated. I know that is a big project that can not be done in 8 weeks and I am not limited to just these projects. Like I said before I am very open minded and I love helping people. Anything that would have these 2 components would be my ideal project.
+
+
+
+#### Two Truths and a Lie
+- My first year as treasurer I made a mistake that cost the school almost $15,000.
+- I do henna.
+- I have a wife and kids that live in Las Vegas.
+
